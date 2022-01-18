@@ -1,0 +1,23 @@
+
+
+.body {
+    text-align: center;
+}
+
+.ul {
+    list-style-position: inside;
+}
+
+.bgcolor {
+    background-color: #E9ECEF;
+}
+
+.title {
+    color: blueviolet;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.grid {
+    background-color: grey;
+}
